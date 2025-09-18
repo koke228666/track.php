@@ -17,4 +17,4 @@ $language_list = [${availibleLanguageArray.map(item => `"${item}"`).join(", ")}]
 ```
 
 # look at this silly screenshot xd
-<img width="697" height="836" alt="scr1" src="https://github.com/user-attachments/assets/3d50a02b-4eee-4c86-bde5-075da53fa505" />
+<img width="697" height="836" alt="scr1" src="https://github.com/user-attachments/assets/d84cac14-c789-40c6-a0ba-6a1b217063a0" />
